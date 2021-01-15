@@ -44,7 +44,7 @@ https://drive.google.com/file/d/17A7oX1jK_VbNcjrCOfHWo8wvWZFiKWxJ/view
 ## Installation
 Application can be used in any command line terminal with Node.js installed. Node depedencies can be installed by typing 'npm install' into the command line. Express server can be connected by typing 'npm start'.
 
-Download code for this project here (zip file): https://github.com/MikeGShelby/e-commerce/archive/master.zip
+Download code for this project here (zip file): https://github.com/MikeGShelby/ecommerce-app/archive/master.zip
 Download Node here: https://nodejs.org/en/download/
 
 ## License
