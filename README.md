@@ -22,12 +22,16 @@ A back end application that can be used with an e-commerce website. The applicat
 ### Creating schema from MySQL shell and seeding database from the command line
 https://drive.google.com/file/d/19AyOGiVXtWiq4BGHtbGUyXKfKjx5arXa/view
 ### Starting application server
+https://drive.google.com/file/d/1wsOBoXIHHzFRz0KJEINVBzit_ZIlrt_8/view
 
 ### GET routes for all categories, all products, and all tags
+https://drive.google.com/file/d/1_F7_sDFuItw1I0HtuDTU5DnS4HqM6I_P/view
 
 ### GET routes for a single category, a single product, and a single tag
+https://drive.google.com/file/d/1ENTYXSEPbNT_lmzRMsVbf3YEBa_Qi1Ja/view
 
 ### POST, PUT, and DELETE routes for a categories, products, and tags
+https://drive.google.com/file/d/17A7oX1jK_VbNcjrCOfHWo8wvWZFiKWxJ/view
 
 ## Built With
 * JavaScript
@@ -51,7 +55,7 @@ MIT License
 Developed by Mike Shelby
 
 ## Tests
-All API end points were tested using Insomnia Core.
+All API end points were tested using Insomnia Core, as shown in above demo videos.
 
 ## Questions
 Github Username: mikegshelby
