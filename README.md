@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description and Purpose
-A back end application that can be used with an e-commerce website. The application uses Express.js back end functionality along with Sequalize to interact with a MySQL database. The application also uses the dotenv package to store MySQL environment variables.
+A back end application that can be used with an e-commerce website. The application uses Express.js back end functionality along with Sequelize to interact with a MySQL database. The application also uses the dotenv package to store MySQL environment variables.
 
 ## Table of Contents
   - [Description and Purpose](#description-and-purpose)
@@ -38,7 +38,7 @@ https://drive.google.com/file/d/17A7oX1jK_VbNcjrCOfHWo8wvWZFiKWxJ/view
 * Node.js
 * Express.js
 * MySQL
-* Sequalize
+* Sequelize
 * Dotenv
 
 ## Installation
